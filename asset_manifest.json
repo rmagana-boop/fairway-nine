@@ -1,0 +1,253 @@
+{
+  "version": "1.0.1",
+  "assets": [
+    {
+      "file": "08_putting/slope_arrows.svg",
+      "type": "svg"
+    },
+    {
+      "file": "08_putting/green_contour_overlay.png",
+      "type": "png"
+    },
+    {
+      "file": "08_putting/cup_highlight.svg",
+      "type": "svg"
+    },
+    {
+      "file": "08_putting/break_path.svg",
+      "type": "svg"
+    },
+    {
+      "file": "08_putting/target_marker.svg",
+      "type": "svg"
+    },
+    {
+      "file": "08_putting/aim_line.svg",
+      "type": "svg"
+    },
+    {
+      "file": "07_effects/impact_flash.png",
+      "type": "png"
+    },
+    {
+      "file": "07_effects/divot_grass.png",
+      "type": "png"
+    },
+    {
+      "file": "07_effects/water_splash.png",
+      "type": "png"
+    },
+    {
+      "file": "07_effects/shot_tracers.png",
+      "type": "png"
+    },
+    {
+      "file": "07_effects/sand_splash.png",
+      "type": "png"
+    },
+    {
+      "file": "07_effects/ball_shadow.svg",
+      "type": "svg"
+    },
+    {
+      "file": "07_effects/impact_flash.svg",
+      "type": "svg"
+    },
+    {
+      "file": "07_effects/shot_tracer.svg",
+      "type": "svg"
+    },
+    {
+      "file": "02_equipment/clubs_atlas.png",
+      "type": "png"
+    },
+    {
+      "file": "02_equipment/balls_and_tees.png",
+      "type": "png"
+    },
+    {
+      "file": "02_equipment/flags_and_cup.png",
+      "type": "png"
+    },
+    {
+      "file": "03_terrain/rough_tile.png",
+      "type": "png"
+    },
+    {
+      "file": "03_terrain/fringe_tile.png",
+      "type": "png"
+    },
+    {
+      "file": "03_terrain/cart_path_tile.png",
+      "type": "png"
+    },
+    {
+      "file": "03_terrain/fairway_tile.png",
+      "type": "png"
+    },
+    {
+      "file": "03_terrain/tee_box_tile.png",
+      "type": "png"
+    },
+    {
+      "file": "03_terrain/bunker_sand_tile.png",
+      "type": "png"
+    },
+    {
+      "file": "03_terrain/green_tile.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/shrubs.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_atlas_reference.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_willow.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_maple.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_desert.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_pine.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_evergreen.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_birch.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_palm.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_oak.png",
+      "type": "png"
+    },
+    {
+      "file": "05_trees/tree_cypress.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/golfer_backswing.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/golfer_pose_atlas_reference.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/golfer_address.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/putter_stroke.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/golfer_finish.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/avatar_variations.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/golfer_followthrough.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/golfer_downswing.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/golfer_top.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/putter_address.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/putter_followthrough.png",
+      "type": "png"
+    },
+    {
+      "file": "01_golfer/golfer_impact.png",
+      "type": "png"
+    },
+    {
+      "file": "04_course_elements/bunker_large.png",
+      "type": "png"
+    },
+    {
+      "file": "04_course_elements/water_hazard.png",
+      "type": "png"
+    },
+    {
+      "file": "04_course_elements/bridge_fence.png",
+      "type": "png"
+    },
+    {
+      "file": "04_course_elements/bushes_flowers.png",
+      "type": "png"
+    },
+    {
+      "file": "04_course_elements/bunkers_small.png",
+      "type": "png"
+    },
+    {
+      "file": "04_course_elements/course_elements_atlas_reference.png",
+      "type": "png"
+    },
+    {
+      "file": "04_course_elements/rocks.png",
+      "type": "png"
+    },
+    {
+      "file": "06_backgrounds/clubhouse_scene.png",
+      "type": "png"
+    },
+    {
+      "file": "06_backgrounds/mountains_panorama.png",
+      "type": "png"
+    },
+    {
+      "file": "06_backgrounds/hills_treeline_panorama.png",
+      "type": "png"
+    },
+    {
+      "file": "06_backgrounds/sky_clouds.png",
+      "type": "png"
+    },
+    {
+      "file": "09_ui/control_icon_atlas.png",
+      "type": "png"
+    },
+    {
+      "file": "09_ui/minimap_assets.png",
+      "type": "png"
+    },
+    {
+      "file": "09_ui/example_hole.png",
+      "type": "png"
+    },
+    {
+      "file": "09_ui/hud_icon_atlas.png",
+      "type": "png"
+    }
+  ]
+}
