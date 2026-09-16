@@ -1,0 +1,20 @@
+FAIRWAY NINE — APPLY PROVIDED VISUAL ASSET PACK
+
+I am supplying FairwayNine_VisualAssetPack_v1. Treat it as the canonical art direction and asset library. Do NOT invent replacement trees, golfer art, terrain props or HUD graphics from primitive circles/rectangles when a supplied asset exists.
+
+Preserve all current golf gameplay, rules, physics, procedural holes, scoring, camera logic and putting. This pass is a VISUAL INTEGRATION rebuild.
+
+1. Import/index the supplied assets by manifest/folder.
+2. Replace current primitive golfer with supplied swing/putting pose assets. Map game states: address, backswing, top, downswing, impact, follow-through, finish; use putting poses on greens. Synchronize ball launch exactly to impact.
+3. Replace blob trees with supplied tree families. Procedurally vary scale, horizontal flip, spacing and depth. Scale by world distance; depth-sort; apply dynamic ground shadows and atmospheric fading.
+4. Skin procedural fairway/rough/green/fringe/bunker/path geometry with supplied terrain textures while preserving true world geometry. Do NOT paste one static course image.
+5. Use supplied bunkers, water, rocks, bushes, bridges and scenery as modular world sprites positioned from the hole generator.
+6. Build parallax using supplied sky, mountains, hills/treeline and optional clubhouse layers.
+7. Use supplied shot tracer, impact, divot, sand, water and shadow effects tied to actual physics events.
+8. PUTTING: use supplied aim line, break path, slope arrows, cup highlight, target marker and contour art. Main camera must show ball+cup+aim simultaneously. Overlays must use actual slope/putt physics.
+9. Use HUD/minimap visual language from the pack. Gameplay must dominate; fade nonessential UI during shots.
+10. Follow theme.json lighting/palette/depth rules. Consistent upper-left light, down-right shadows, lower contrast/detail with distance.
+
+Target: polished stylized mobile/console golf, NOT Power Apps prototype art. Use supplied art as modular sprites and textures while keeping the game procedural and interactive.
+
+Do not return a plan. IMPLEMENT, inspect drives/approaches/putts visually, fix integration defects, then report changes and validation results.

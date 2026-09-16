@@ -1,0 +1,35 @@
+{
+  "name": "Fairway Nine Premium 2.5D",
+  "art_direction": "Polished stylized mobile/console golf; illustrated realism, not preschool/cartoon and not photorealistic.",
+  "palette": {
+    "deep_green": "#0D4F3B",
+    "forest": "#1F6A45",
+    "fairway": "#58A54D",
+    "light_green": "#9FCB63",
+    "sky_blue": "#5DA9D6",
+    "water_blue": "#2A89B8",
+    "sand": "#D9BF8B",
+    "flag_red": "#D9362B",
+    "gold": "#F4C64D",
+    "charcoal": "#23333A",
+    "off_white": "#F5F7F2"
+  },
+  "typography": {
+    "display": "Montserrat SemiBold",
+    "body": "Poppins / Segoe UI fallback"
+  },
+  "lighting": {
+    "sun_direction": "upper-left",
+    "rule": "Highlights upper-left; cast shadows down-right; distant layers lighter and lower contrast."
+  },
+  "depth_rules": [
+    "Foreground: 100% contrast/detail",
+    "Midground: 80% contrast/detail",
+    "Background: 55-65% contrast/detail + slight blue atmospheric tint"
+  ],
+  "asset_rules": [
+    "Use supplied assets as canonical art. Do not redraw trees/golfer/course props with primitive shapes.",
+    "Transform/scale/mirror supplied assets for procedural variety.",
+    "Keep physics overlays (aim/tracer/shadow/slope) dynamic and tied to actual simulation."
+  ]
+}
